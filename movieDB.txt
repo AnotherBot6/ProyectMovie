@@ -1,0 +1,6 @@
+1,The Batman,153.60,Superheroe/Action/Adventure
+2,Me before you,90.0,Romantic/Drama/Love
+3,Avengers End Game,192.0,Superhero/Fancy/Action
+4,Love Death and Robot T1 Episode 6,16.530,Fancy/Action/Animation
+5,Black Mirror T3 Episode 1,61.80,Science fiction/Fancy/Historical
+6,Squid Game T1 Episode 1,60.0,Mystery/Drama/Thriller
